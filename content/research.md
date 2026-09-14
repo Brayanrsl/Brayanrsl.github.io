@@ -5,8 +5,7 @@ draft: false
 ---
 
 <style>
-  .page-header {
-    /* El gradiente oscuro ayuda a que las letras blancas se lean bien sobre la foto */
+  .post-header {
     background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('/patos.jpeg');
     background-size: cover;
     background-position: center;
@@ -14,7 +13,7 @@ draft: false
     border-radius: 12px;
     margin-bottom: 40px;
   }
-  .page-header h1 {
+  .post-title {
     color: white !important;
   }
 </style>
