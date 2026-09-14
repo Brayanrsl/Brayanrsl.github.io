@@ -12,7 +12,7 @@ theme = 'PaperMod'
     title = 'Brayan Sandoval Leon'
     subtitle = '''Mathematical Engineer from the Universidad de Concepción with a strong background in research areas
 such as approximation theory and numerical analysis of PDEs.'''
-    imageUrl = '/foto.jpg' # Guarda una imagen en la carpeta 'static/' con este nombre
+    imageUrl = 'foto.jpg' # Guarda una imagen en la carpeta 'static/' con este nombre
     imageWidth = 150
     imageHeight = 150
     
