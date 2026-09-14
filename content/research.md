@@ -2,7 +2,11 @@
 title: "Research"
 layout: "page"
 draft: false
+cover:
+  image: "/patos.jpeg"
 ---
+
+
 ---
 
 ## In preparation
