@@ -12,11 +12,8 @@ theme = 'PaperMod'
     title = 'Brayan Sandoval Leon'
     subtitle ='''
 I did my Ingeniería Civil Matemática (Applied Math) undergrad studies at Universidad de Concepción. My undergrad thesis was advised by professor [Leonardo E. Figueroa](https://www.leonardofigueroa.org/).
-    
-I am interested in:
-* Numerical analysis of PDE
-* Approximation theory
-* Orthogonal polynomials
+<br><br>
+**Research interests:** Numerical analysis of PDE • Approximation theory • Orthogonal polynomials
 '''
     imageUrl = 'foto.jpg' # Guarda una imagen en la carpeta 'static/' con este nombre
     imageWidth = 150

@@ -3,20 +3,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:36575/</loc>
+    <loc>http://localhost:36277/</loc>
   </url><url>
-    <loc>http://localhost:36575/categories/</loc>
+    <loc>http://localhost:36277/categories/</loc>
   </url><url>
-    <loc>http://localhost:36575/cv/</loc>
+    <loc>http://localhost:36277/cv/</loc>
   </url><url>
-    <loc>http://localhost:36575/notes/</loc>
+    <loc>http://localhost:36277/notes/</loc>
   </url><url>
-    <loc>http://localhost:36575/research/</loc>
+    <loc>http://localhost:36277/research/</loc>
   </url><url>
-    <loc>http://localhost:36575/tags/</loc>
+    <loc>http://localhost:36277/tags/</loc>
   </url><url>
-    <loc>http://localhost:36575/talks/</loc>
+    <loc>http://localhost:36277/talks/</loc>
   </url><url>
-    <loc>http://localhost:36575/teaching/</loc>
+    <loc>http://localhost:36277/teaching/</loc>
   </url>
 </urlset>
