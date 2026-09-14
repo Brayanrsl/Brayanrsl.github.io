@@ -13,6 +13,6 @@ draft: false
   Universidad de Concepción, Concepción, Chile  [Slides](https://drive.google.com/file/d/1R16lIbpucvgx_i22j4G3Y8Zd0UrMN_uZ/view?usp=sharing)
 
 * **Weighted Schur and Markov Inequalities on the d-simplex**
-  *Tenth Meeting on Numerical Analysis of Partial Differential Equations*[cite: 1]  
+  *Tenth Meeting on Numerical Analysis of Partial Differential Equations*
   Universidad Católica del Maule, Talca, Chile
   [Website](https://ci2ma.udec.cl/TN/#welcome) | [Poster](https://drive.google.com/file/d/1U2qMMBE3vSetE4IrXRSn5cmMCpYxEL4i/view?usp=sharing)
