@@ -1,0 +1,52 @@
+baseURL = 'https://tu-usuario.github.io/'
+languageCode = 'es-CL'
+title = 'Brayan Sandoval Leon'
+theme = 'PaperMod'
+
+[params]
+  env = 'production'
+  defaultTheme = 'auto' # Permite cambiar entre modo claro y oscuro
+
+  [params.profileMode]
+    enabled = true
+    title = 'Brayan Sandoval Leon'
+    subtitle = '''Mathematical Engineer from the Universidad de Concepción with a strong background in research areas
+such as approximation theory and numerical analysis of PDEs.'''
+    imageUrl = 'foto.jpg' # Guarda una imagen en la carpeta 'static/' con este nombre
+    imageWidth = 150
+    imageHeight = 150
+    
+
+    [[params.profileMode.buttons]]
+      name = "Research"
+      url = "/research/"
+    
+    [[params.profileMode.buttons]]
+      name = "Teaching"
+      url = "/teaching/"
+
+    [[params.profileMode.buttons]]
+      name = "Talks"
+      url = "/talks/"
+
+    [[params.profileMode.buttons]]
+      name = "Notes"
+      url = "/notes/"
+    
+    [[params.profileMode.buttons]]
+      name = "CV"
+      url = "/cv/"
+
+  [[params.socialIcons]]
+    name = "linkedin"
+    url = "https://linkedin.com/in/brayan-sandoval-león"
+
+  [[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/Brayanrsl"
+  [[params.socialIcons]]
+    name = "email"
+    url = "mailto:bsandoval2018@udec.cl"
+  [[params.socialIcons]]
+    name = "googlescholar"
+    url = "https://scholar.google.com/citations?user=pr_ZNIcAAAAJ&hl=es"
