@@ -25,7 +25,6 @@ draft: false
 ## In preparation
 ---
 * **Markov and Schur inequalities with the Jacobi weights on the simplex**
-
 [Leonardo E. Figueroa](https://www.leonardofigueroa.org/) and Brayan Sandoval-León
 
 * **Orthogonal polynomial projection error measured in Sobolev norms in the simplex**  [Leonardo E. Figueroa](https://www.leonardofigueroa.org/) and Brayan Sandoval-León
