@@ -6,7 +6,7 @@ draft: false
 
 <style>
   .post-header {
-    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('/cfm.jpg');
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('/thesis.png');
     background-size: cover;
     background-position: center;
     padding: 60px 20px;

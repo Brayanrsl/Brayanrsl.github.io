@@ -3,6 +3,23 @@ title: "Talks"
 layout: "page"
 draft: false
 ---
+<style>
+  .post-header {
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('/talk.jpeg');
+    background-size: cover;
+    background-position: center;
+    padding: 60px 20px;
+    border-radius: 12px;
+    margin-bottom: 40px;
+  }
+  .post-title {
+    color: white !important;
+  }
+</style>
+
+
+
+
 ---
 * **Approximation and orthogonality in weighted Sobolev spaces on the triangle**
   *XXXVIII Mathematics Meeting of the Southern Zone*  Universidad del Bío-Bío, Concepción, Chile
