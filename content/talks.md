@@ -7,10 +7,11 @@ draft: false
   .post-header {
     background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('/talk.jpeg');
     background-size: cover;
-    background-position: center;
-    padding: 60px 20px;
+    background-position: center 30%;
+    padding: 80px 20px;
     border-radius: 12px;
     margin-bottom: 40px;
+    text-align: center;
   }
   .post-title {
     color: white !important;
