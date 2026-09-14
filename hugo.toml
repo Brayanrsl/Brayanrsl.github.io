@@ -53,3 +53,7 @@ I did my Ingeniería Civil Matemática (Applied Math) undergrad studies at Unive
   [[params.socialIcons]]
     name = "googlescholar"
     url = "https://scholar.google.com/citations?user=pr_ZNIcAAAAJ&hl=es"
+
+
+[markup.goldmark.renderer]
+unsafe = true

@@ -2,9 +2,22 @@
 title: "Research"
 layout: "page"
 draft: false
-cover:
-  image: "/patos.jpeg"
 ---
+
+<style>
+  .page-header {
+    /* El gradiente oscuro ayuda a que las letras blancas se lean bien sobre la foto */
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('/patos.jpeg');
+    background-size: cover;
+    background-position: center;
+    padding: 60px 20px;
+    border-radius: 12px;
+    margin-bottom: 40px;
+  }
+  .page-header h1 {
+    color: white !important;
+  }
+</style>
 
 
 ---
