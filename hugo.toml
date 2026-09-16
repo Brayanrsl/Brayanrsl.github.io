@@ -56,7 +56,7 @@ I did my Ingeniería Civil Matemática (Applied Math) undergrad studies at Unive
 
 [params.label]
   text = "Tu Nombre"           
-    icon = "/logo.png"           
+    icon = "/logo.jpeg"           
     iconHeight = 35             
   [markup.goldmark.renderer]
     unsafe = true
