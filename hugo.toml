@@ -55,7 +55,7 @@ I did my Ingeniería Civil Matemática (Applied Math) undergrad studies at Unive
     url = "https://scholar.google.com/citations?user=pr_ZNIcAAAAJ&hl=es"
 
 [params.label]
-  text = "Tu Nombre"           
+  text = "Brayan Sandoval Leon"           
     icon = "/logo.jpeg"           
     iconHeight = 35             
   [markup.goldmark.renderer]
