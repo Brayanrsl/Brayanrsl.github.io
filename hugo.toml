@@ -1,6 +1,6 @@
 baseURL = 'https://brayanrsl.github.io/'
 languageCode = 'es-CL'
-title = 'Brayan Sandoval Leon'
+title = 'Brayan Sandoval León'
 theme = 'PaperMod'
 
 [params]
@@ -9,7 +9,7 @@ theme = 'PaperMod'
 
   [params.profileMode]
     enabled = true
-    title = 'Brayan Sandoval Leon'
+    title = 'Brayan Sandoval León'
     subtitle ='''
 I did my Ingeniería Civil Matemática (Applied Math) undergrad studies at Universidad de Concepción. My undergrad thesis was advised by professor [Leonardo E. Figueroa](https://www.leonardofigueroa.org/).
 <br><br>
@@ -55,7 +55,7 @@ I did my Ingeniería Civil Matemática (Applied Math) undergrad studies at Unive
     url = "https://scholar.google.com/citations?user=pr_ZNIcAAAAJ&hl=es"
 
 [params.label]
-  text = "Brayan Sandoval Leon"           
+  text = "Brayan Sandoval León"           
     icon = "/logo.jpeg"           
     iconHeight = 35             
 
